@@ -1,7 +1,7 @@
 # 🚀 Videojuego online
 
 ## 📝 Descripción  
-Videojuego interactivo, donde se presentan los personajes de Mario 
+Videojuego interactivo, donde se presentan los personajes de Mario. Creado con javascript y CSS
 
 ## 👤 Autor  
 - **Nombre:** Victoria Isac
@@ -14,4 +14,4 @@ Videojuego interactivo, donde se presentan los personajes de Mario
 ✉️ **Email:** [mariavictoria.isac1205@gmail.com](mailto:mariavictoria.isac1205@gmail.com)  
 
 ## 🎬 Ejemplo en Vivo  
-🔗 **Demo:** [ ]( )
+🔗 **Demo:** [https://victoriaisac.github.io/Videojuego-Mario-Bros/](https://victoriaisac.github.io/Videojuego-Mario-Bros/)
